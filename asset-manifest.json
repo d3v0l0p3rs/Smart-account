@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Smart-account/static/css/main.14a601a4.chunk.css",
+    "main.js": "/Smart-account/static/js/main.462cc875.chunk.js",
+    "main.js.map": "/Smart-account/static/js/main.462cc875.chunk.js.map",
+    "runtime-main.js": "/Smart-account/static/js/runtime-main.7680eb53.js",
+    "runtime-main.js.map": "/Smart-account/static/js/runtime-main.7680eb53.js.map",
+    "static/js/2.c26a3797.chunk.js": "/Smart-account/static/js/2.c26a3797.chunk.js",
+    "static/js/2.c26a3797.chunk.js.map": "/Smart-account/static/js/2.c26a3797.chunk.js.map",
+    "index.html": "/Smart-account/index.html",
+    "precache-manifest.a6fb3868670bbc85c459650f9a4700af.js": "/Smart-account/precache-manifest.a6fb3868670bbc85c459650f9a4700af.js",
+    "service-worker.js": "/Smart-account/service-worker.js",
+    "static/css/main.14a601a4.chunk.css.map": "/Smart-account/static/css/main.14a601a4.chunk.css.map",
+    "static/js/2.c26a3797.chunk.js.LICENSE.txt": "/Smart-account/static/js/2.c26a3797.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/Smart-account/static/media/Flaticon.f48c428e.eot",
+    "static/media/style.css": "/Smart-account/static/media/testmonial.5a13f5c4.png",
+    "static/media/font-awesome.min.css": "/Smart-account/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/gijgo.css": "/Smart-account/static/media/gijgo-material.8f81d3fa.eot",
+    "static/media/logo.svg": "/Smart-account/static/media/logo.5d5d9eef.svg",
+    "static/media/style.map": "/Smart-account/static/media/style.9722bd3a.map",
+    "static/media/theme-default.map": "/Smart-account/static/media/theme-default.8ca13938.map",
+    "static/media/themify-icons.css": "/Smart-account/static/media/themify.e23a7dca.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7680eb53.js",
+    "static/js/2.c26a3797.chunk.js",
+    "static/css/main.14a601a4.chunk.css",
+    "static/js/main.462cc875.chunk.js"
+  ]
+}
