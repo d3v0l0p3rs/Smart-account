@@ -2,13 +2,14 @@ import React from 'react'
 import './App.css'
 import { Router, Switch, Route } from 'react-router-dom'
 import { createBrowserHistory } from 'history'
-import { HomeComponent, NavComponent } from './components/index'
+import {
+  NavComponent,
+  HeaderComponent,
+  HomeComponent,
+  ContactComponent,
+} from './components/index'
 
 const history = createBrowserHistory()
-
-function Contact() {
-  return <h2>Contact</h2>
-}
 
 function Blog() {
   return <h2>Blog</h2>
@@ -21,6 +22,9 @@ const App: React.FC = (): JSX.Element => {
         <NavComponent />
       </div>
       <div>
+        <HeaderComponent />
+      </div>
+      <div>
         <Switch>
           <Route path="/home">
             <HomeComponent />
@@ -29,7 +33,7 @@ const App: React.FC = (): JSX.Element => {
             <Blog />
           </Route>
           <Route path="/contact">
-            <Contact />
+            <ContactComponent />
           </Route>
         </Switch>
       </div>

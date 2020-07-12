@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../logo.svg'
+import logo from 'logo.svg'
 
 const HomeComponent: React.FC = (): JSX.Element => {
   return (
@@ -13,8 +13,7 @@ const HomeComponent: React.FC = (): JSX.Element => {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>
@@ -22,4 +21,4 @@ const HomeComponent: React.FC = (): JSX.Element => {
   )
 }
 
-export default HomeComponent
+export { HomeComponent }
